@@ -29,4 +29,15 @@ PsyAssist is not a replacement for professional therapy,but a supportive convers
 2. Input is processed and routed through the conversation logic  
 3. Relevant context is retrieved from vector databases (if required)  
 4. The LLM generates a response grounded in the retrieved context  
-5. A structured and empathetic reply is returned to the user  
+5. A structured and empathetic reply is returned to the user
+
+## Collaboration
+This project was developed as a collaborative team effort.
+The core idea, architecture design, and primary development were done in collaboration, with contributions across planning, implementation, and refinement stages.
+
+## Contributions
+Ideation and project planning
+Backend architecture and workflow design
+LLM integration and prompt structuring
+Vector database setup and retrieval logic
+Testing and optimization
